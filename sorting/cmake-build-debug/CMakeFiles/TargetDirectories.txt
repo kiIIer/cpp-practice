@@ -1,0 +1,3 @@
+/Users/killer/proj/cpp-practice/sorting/cmake-build-debug/CMakeFiles/sorting.dir
+/Users/killer/proj/cpp-practice/sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/killer/proj/cpp-practice/sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
